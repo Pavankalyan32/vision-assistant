@@ -1,0 +1,16 @@
+# Ignore model files
+paligemma-3b-mix-224/
+
+# Ignore virtual environments
+vision-env/
+vision-assistant-env/
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore other common files
+*.log
+.DS_Store
