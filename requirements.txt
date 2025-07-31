@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+transformers
+pillow
+pyttsx3
+pypiwin32
+SpeechRecognition
+googletrans==4.0.0rc1
+opencv-python
