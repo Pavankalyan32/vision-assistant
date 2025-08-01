@@ -179,3 +179,4 @@ This project is open source and available under the MIT License.
 - Google for the PaliGemma model
 - Hugging Face for the Transformers library
 - The open-source community for various libraries used in this project
+  
