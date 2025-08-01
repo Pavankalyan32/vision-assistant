@@ -6,7 +6,7 @@ vision-env/
 vision-assistant-env/
 .venv/
 
-# Ignore Python cache files
+# Ignore Python cache filesgit remote remove origin
 __pycache__/
 *.py[cod]
 *$py.class
